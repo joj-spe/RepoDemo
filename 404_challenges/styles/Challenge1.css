@@ -1,0 +1,226 @@
+img{
+    width:539.22px; 
+    height:447.43px; 
+    top:265px; 
+    left:77px; 
+    bottom:367.57;
+
+    position: absolute;
+    bottom: 34.03%;
+    right: 57.21%;
+    left: 5.35%;
+}
+h1{
+    position: absolute;
+    width: 586px;
+    height: 190px;
+    left: 735px;
+    top: 265px;
+    
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size:64px;
+    line-height: 95px;
+    letter-spacing: -0.035em;
+
+    /*Gray 1*/
+    color: #333333;
+}
+p
+{
+    position: absolute;
+    width: 381px;
+    height: 108px;
+    left: 736px;
+    right: 323px;
+    top: 491px;
+    bottom: 481px;
+
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: -0.035em;
+
+    /**Gray 2*/
+    color: #4F4F4F;
+}
+.encadrer
+{
+    position: absolute;
+    width: 216px;
+    height: 68px;
+    left: 740px;
+    top: 663px;
+
+    /* Gray 1 */
+    background: #333333;
+}
+h3{
+    padding-left: 43px;
+    padding-top: 14px;
+    padding-bottom: 13px;
+    height: 21px;
+    left: 783px;
+    top: 687px;
+
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+
+    letter-spacing: -0.035em;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+h6{
+    position: absolute;
+    width: 287px;
+    height: 17px;
+    top: 1039px;
+    left: 577px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+
+    text-align: center;
+
+    color: #BDBDBD;
+}
+h5{
+    position: absolute;
+    height: 25px;
+    left: 77px;
+    top: 40px;
+
+    font-family: 'Inconsolata';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 25px;
+    letter-spacing: -0.08em;
+    text-transform: uppercase;
+
+    color:#333333
+}
+@media screen and (max-width:700px) {
+    img{
+        width:286.83px; 
+        height: 238px; 
+        top: 109px; 
+        left: 44px;
+        bottom:367.57;
+    
+        position: absolute;
+        bottom:63.44%;
+        right: 11.78%;
+        left: 5.35%;
+    }
+    h1{
+        position: absolute;
+        width: 350px;
+        height: 142px;
+        left: 24px;
+        top: 407px;
+        bottom: 400px;
+    
+        font-family: 'Space Mono';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 71px;
+        /*letter-spacing: -0.035em;*/
+    
+        /*Gray 1*/
+        color: #333333;
+    }
+    p
+    {
+    position: absolute;
+    width: 300px;
+    height: 81px;
+    left: 23px;
+    top: 579px;
+
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: -0.035em;
+
+    /**Gray 2*/
+    color: #4F4F4F;
+    }
+    .encadrer
+    {
+    position: absolute;
+    width: 216px;
+    height: 68px;
+    left: 24px;
+    top: 726px;
+
+    /* Gray 1 */
+    background: #333333;
+    }
+    h3{
+        padding-left: 43px;
+        padding-top: 14px;
+        padding-bottom: 13px;
+        height: 21px;
+        left: 67px;
+        top: 780px;
+    
+        font-family: 'Space Mono';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 21px;
+    
+        letter-spacing: -0.035em;
+        text-transform: uppercase;
+    
+        color: #FFFFFF;
+    }
+    h6{
+        position: absolute;
+        width: 287px;
+        height: 17px;
+        top: 908px;
+        left: 46px;
+    
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 17px;
+    
+        text-align: center;
+    
+        color: #BDBDBD;
+    }
+    h5{
+        position: absolute;
+        width: 133px;
+        height: 25px;
+        left: 24px;
+        top: 20px;
+    
+        font-family: 'Inconsolata';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 25px;
+        letter-spacing: -0.08em;
+        text-transform: uppercase;
+    
+        color:#333333
+    }
+}
